@@ -31,7 +31,7 @@ Data (python objects) generated are stored in a json file and can be accessed wi
 
 ## Project Workflow Diagram :clipboard:
 
-![The workflow diagram for this project](https://github.com/benkart-week-11/creative-optimisation-cv/blob/main/workflow-diagram.png?raw=true)
+![The workflow diagram for this project](https://github.com/michaelgetachew-abebe/AirBnB_clone/blob/48e3efe4426d35767d6ce9134f7c4e9fc8e5ff94/airbnb_image.png)
 
 ## Project Structure :file_folder:
 
