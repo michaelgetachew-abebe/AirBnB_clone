@@ -14,7 +14,6 @@
    <li>MySQL Storage</li>
    <li>Web Framework - Templating</li>
    <li>RESTful API</li>
-   <li>CTA button</li>
    <li>Web Dynamic</li>
    </ol>
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python
