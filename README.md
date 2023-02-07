@@ -1,7 +1,9 @@
 # AirBnB_clone
 
 <h1 align="center">Welcome to AirBnB Clone Project 👋</h1>
-(https://github.com/michaelgetachew-abebe/AirBnB_clone/blob/48e3efe4426d35767d6ce9134f7c4e9fc8e5ff94/airbnb_image.png)
+
+![Project Image](https://github.com/michaelgetachew-abebe/AirBnB_clone/blob/48e3efe4426d35767d6ce9134f7c4e9fc8e5ff94/airbnb_image.png)
+
 ## Project Description :book:
 
 > This is the first section(The console) of the complete AirBnB project on ALX Software Engineering Program. The complete AirBnB project will have the following sections:
