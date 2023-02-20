@@ -1,0 +1,9 @@
+@import "2-header.css";
+@import "2-footer.css";
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
